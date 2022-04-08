@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = '08-LifeCycle';
+
+  mostrar: boolean = true;
 }
